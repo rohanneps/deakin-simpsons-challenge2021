@@ -13,15 +13,16 @@ The **Deakin Simpsons challenge 2021** is a computer vision competition for whic
 
 # Table of Contents
 1. [About the task](#introduction)
-2. [Timeline](#Timeline)
-3. [Eligibility](#Eligibility)
-4. [Prizes and Sponsors](#Sponsors)
-5. [Benefit](#Benefit)
-6. [Participate](#participate)
-7. [Webinar](#Webinar)
-8. [Questions](#Questions)
-9. [References](#References)
-10. [Acknowledgment](#Acknowledgment)
+2. [Winners](#winners)
+3. [Timeline](#Timeline)
+4. [Eligibility](#Eligibility)
+5. [Prizes and Sponsors](#Sponsors)
+6. [Benefit](#Benefit)
+7. [Participate](#participate)
+8. [Webinar](#Webinar)
+9. [Questions](#Questions)
+10. [References](#References)
+11. [Acknowledgment](#Acknowledgment)
 
 # About the task <a name="introduction"></a>
 
@@ -88,14 +89,24 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 6. `Monitoring:` The sixth step consists of monitoring the traning process to investigate possible overfitting.
 7. `Submission:` The seventh and last step will take you through the submission process.
 
+# Winners <a name="winners"></a>
+
+The winners of the competition are:
+1. **ndhuynh** (Accuracy = 0.997) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/ndhuynh.pdf)] [[code](https://github.com/parkerhuynh/Simpson-Charater-Detection)] 🥇
+2. **peterja555** (Accuracy = 0.994) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/peterja555.pdf)] [[code](https://github.com/pjasyd/Deakin_AI_Challenge_Code)] 🥈
+3. **Bevan** (Accuracy = 0.991) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Bevan.pdf)] [[code](https://github.com/bevanyeah/deakin-simpsons-challenge2021)] 🥉
+4. **Doh! Data** (Accuracy = 0.987) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Doh!%20Data.pdf)] [[code](https://github.com/joshanthony/simpsons-machine-learning-challenge)] 🎁
+5. **vinayakam19** (Accuracy = 0.982) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/vinayakam19.pdf)] [[code](https://github.com/Vinayakam19/Deakin-Simpsons-Challenge---2021)]
+6. **Data Destroyers** (Accuracy = 0.965) [[report](https://github.com/rbouadjenek/deakin-simpsons-challenge2021/blob/main/reports/Data%20Destroyers%20.pdf)] [[code](https://github.com/SamAnast/Deakin-AI-Challenge)]
+
 # Timeline <a name="Timeline"></a>
-- `15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
-- `16.03.21:` [Join the Webinar at 5:30 PM to review procedures and for a live Q&A session](https://deakin-simpsons-challenge-2021.eventbrite.com).
-- `15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY ONE SUBMISSION IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- `22.05.21:` Last Shot & Contest End.
-- `23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- `05.06.21:` Report & Code Due.
-- `17.06.21:` Winners Announcement.
+- <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>
+- <s>`16.03.21:` [Join the Webinar at 5:30 PM to review procedures and for a live Q&A session](https://deakin-simpsons-challenge-2021.eventbrite.com).</s>
+- <s>`15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.</s>
+- <s>`22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).</s>
+- <s>`23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).</s>
+- <s>`05.06.21:` Report & Code Due.</s>
+- <s>`17.06.21:` Winners Announcement.</s>
 
 # Eligibility<a name="Eligibility"></a>
 
@@ -121,6 +132,7 @@ The prizes will be distributed among the participants as follows:
 - The 1st Place receives a non-cash prize equivalent of **AUD500**.
 - The 2nd Place receives a non-cash prize equivalent of **AUD300**.
 - The 3rd Place receives a non-cash prize equivalent of **AUD200**.
+-  <img src="images/new_icon.gif" > The 4th Place will also receive a non-cash prize equivalent of **AUD100** funded by the School of IT.
 
 
 <!---
@@ -184,15 +196,20 @@ We wish you all the best!
 
 # Acknowledgment<a name="Acknowledgment"></a>
 
-The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/). 
-<p>
-  <img style="float: left;" src="images/deakin2.png" width="200" >
+The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/).
+
+<p align="left">
+  <img src="images/deakin2.png" width="200" >
 </p>
 
-The following people are involved:
+
+
+<p>The following people are involved:</p>
 
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
+- **Peter Eklund** - technical design, and support to students.
+- **Sunil Aryal** - technical design, and support to students.
 - **Thuy Nguyen** - Organization and support.
 
 
@@ -203,13 +220,9 @@ The following people are involved:
 **Locked Bag 20000, Geelong, VIC 3220**
 
 **www.deakin.edu.au**
-<!---
-<p>
-  <img style="float: left;" src="images/deakin2.png" width="200" >
-</p>
---->
 
 
-<p>
-  <a href="https://twitter.com/DeakinAI2021" > <img style="float: left;" src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>
+
+<p align="left">
+  <a href="https://twitter.com/DeakinAI2021" > <img src="https://irisconnect.com/uk/wp-content/uploads/sites/3/2020/12/twitter-Follow-us-button.png" width="200" > </a>
 </p>
